@@ -1,5 +1,7 @@
 # README
 
+This repo is a blog example following the Ruby on Rails [Getting Started](https://guides.rubyonrails.org/getting_started.html) guide
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
